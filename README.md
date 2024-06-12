@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=rounded&height=300&text=Thanks%20to%20Visit👋&reversal=false&textBg=false&fontAlignY=50&animation=fadeIn&desc=This%20is%20Koeyh's%20GitHub&descAlignY=69&descSize=30)
 
 <!--
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Koeyh's+GitHub!👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=80&lines=Welcome+to+Koeyh's+GitHub!👋)](https://git.io/typing-svg)
 -->
 ## 🔨 I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
