@@ -1,6 +1,8 @@
 ## 반갑습니다👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Koeyh&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Koeyh&layout=compact)
+
 <!--
 **Koeyh/Koeyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
