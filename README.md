@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 <!--[![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)](https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=Welcome🐣%20&reversal=true&desc=This%20is%20Koeyh's%20Github)-->
 
-[![header](https://capsule-render.vercel.app/api?type=rounded&height=300&text=Thanks%20to%20Visit👋&reversal=false&textBg=false&fontAlignY=50&animation=fadeIn&desc=This%20is%20Koeyh's%20GitHub&descAlignY=69&descSize=30)
+![header](https://capsule-render.vercel.app/api?type=rounded&height=300&text=Thanks%20to%20Visit👋&reversal=false&textBg=false&fontAlignY=50&animation=fadeIn&desc=This%20is%20Koeyh's%20GitHub&descAlignY=69&descSize=30)
 
 <!--
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Koeyh's+GitHub!👋)](https://git.io/typing-svg)
