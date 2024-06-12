@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 -->
 
 <br><br>
-## 🔨 I've used 🔨
+## 🔨 Skills 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
     <p><strong>Backend</strong></p>
