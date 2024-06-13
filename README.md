@@ -50,6 +50,7 @@ Here are some ideas to get you started:
     </div>
    
 </div>
+<img src="https://github.com/Koeyh/Koeyh/blob/output/github-contribution-grid-snake.svg"/>
 
 <br><br><br><br>
 ## 📞 Contact 📞
