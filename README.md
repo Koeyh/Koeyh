@@ -4,7 +4,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Thanks%20for%20visit🎉&desc=Koeyh's%20GitHub&descAlignY=65)
 <br>
 - 🙋‍♂️ 이     름 : _허 재 혁 (Jae Hyeok Heo)_
+  
 - 🌱 최근 학습 : _Spring Boot(3.3.0)을 이용한 Java Web Programming With JPA, MyBatis_
+  
 - 📌 연 락 처 : 페이지 하단 📞Contact📞 의 카카오 오픈 챗, Gmail 링크를 이용 해 주세요 !
 <br>
 
