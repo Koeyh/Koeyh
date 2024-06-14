@@ -4,8 +4,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Thanks%20for%20visit🎉&desc=Koeyh's%20GitHub&descAlignY=65)
 
 <br><br>
-- 🙋‍♂️ My name : 허 재 혁 (Jae Hyeok Heo)
-- 🌱 I’m currently learning : Web Programming used Spring Boot(3.3.0) with Java
+- 🙋‍♂️ 이     름 : 허 재 혁 (Jae Hyeok Heo)
+- 🌱 최근 학습 : Spring Boot(3.3.0)을 이용한 Java Web Programming with JPA, MyBatis
+- ☎ 연 락 처 : 하단의 카카오 오픈 챗, Gmail 링크를 이용 해 주세요 !
 <br><br><br><br>
 
 
@@ -36,10 +37,10 @@
         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
         <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
     </div>
-   
 </div>
+<hr>
 <img src="https://github.com/Koeyh/Koeyh/blob/output/github-contribution-grid-snake.svg"/>
-
+<hr>
 <br><br><br><br>
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
