@@ -1,26 +1,14 @@
 
-<!--
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Koeyh&show_icons=true&theme=radical)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Koeyh&layout=compact)
--->
-<!--
-**Koeyh/Koeyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Thanks%20for%20visit🎉&desc=Koeyh's%20GitHub&descAlignY=65)
 
 <br><br>
+- 🙋‍♂️ My name : 허 재 혁 (Jae Hyeok Heo)
+- 🌱 I’m currently learning : Web Programming used Spring Boot(3.3.0) with Java
+<br><br><br><br>
+
+
 ## 🛠 Language & Tools 🛠
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
