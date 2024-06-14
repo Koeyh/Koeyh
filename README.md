@@ -7,8 +7,7 @@
 - 🙋‍♂️ 이     름 : 허 재 혁 (Jae Hyeok Heo)
 - 🌱 최근 학습 : Spring Boot(3.3.0)을 이용한 Java Web Programming with JPA, MyBatis
 - 📌 연 락 처 : 하단의 카카오 오픈 챗, Gmail 링크를 이용 해 주세요 !
-<br><br><br><br>
-
+<br>
 
 ## 🛠 Language & Tools 🛠
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
@@ -26,7 +25,20 @@
 <hr>
 <img src="https://github.com/Koeyh/Koeyh/blob/output/github-contribution-grid-snake.svg"/>
 <hr>
-<br><br><br><br>
+<br>
+
+## Tehnique Table
+| 기술분류 | 보유기술 |
+|:---:|:---|
+|Visual Studio Code|Python 개발, ,Spring Boot 개발|
+<br>
+
+## Portfolio
+- Python
+  -[빅데이터 분석](https://github.com/Koeyh/bigdata-analysis-2024.git)
+- Java
+  -[Spring Boot](https://github.com/Koeyh/study-springboot-2024.git)
+<br>
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
