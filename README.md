@@ -6,7 +6,7 @@
 <br><br>
 - 🙋‍♂️ 이     름 : 허 재 혁 (Jae Hyeok Heo)
 - 🌱 최근 학습 : Spring Boot(3.3.0)을 이용한 Java Web Programming with JPA, MyBatis
-- ☎ 연 락 처 : 하단의 카카오 오픈 챗, Gmail 링크를 이용 해 주세요 !
+- 📌 연 락 처 : 하단의 카카오 오픈 챗, Gmail 링크를 이용 해 주세요 !
 <br><br><br><br>
 
 
