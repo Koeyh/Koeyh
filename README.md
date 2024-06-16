@@ -26,9 +26,9 @@
     <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
     <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
     <br>
-    <img height="30" src="https://img.icons8.com/?size=100&id=61466&format=png&color=000000" title="IntelliJ Idea">
-    <img height="30" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" title="vscode">
-    <img height="30" src="https://img.icons8.com/?size=100&id=w1uD6vtDitjr&format=png&color=000000" title="eclipse">
+    <img height="30" src="https://img.icons8.com/?size=100&id=61466&format=png&color=000000" title="IntelliJ Idea">&nbsp&nbsp
+    <img height="30" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" title="vscode">&nbsp&nbsp&nbsp
+    <img height="30" src="https://img.icons8.com/?size=100&id=rPAHs7H1vriV&format=png&color=000000" title="eclipse">
 </div>
 <hr>
 <img src="https://github.com/Koeyh/Koeyh/blob/output/github-contribution-grid-snake.svg"/>
@@ -40,14 +40,16 @@
 |:---:|:---:|:---|
 |Python|빅데이터 분석 및 웹 크롤링|Visual Studio Code|
 |Java|Spring Boot를 이용한 웹 개발(JPA)|Visual Studio Code|
-|Java|Spring Boot를 이용한 웹 개발(MyBatis)|IntelliJ IDEA|
+|Java|Spring Boot를 이용한 웹 개발(MyBatis)|IntelliJ IDEA, Visual Studio Code|
 <br>
 
 ## Portfolio
 - Python
   -[빅데이터 분석](https://github.com/Koeyh/bigdata-analysis-2024.git)
 - Java
-  -[Spring Boot](https://github.com/Koeyh/study-springboot-2024.git)
+  - _[팀프로젝트_크라우드 펀딩 사이트(Spring Boot with JPA) '24. 5. 27. ~ '24. 6. 7.](https://github.com/PUK-Java/PUK-Groupware.git)_
+  - _[Spring Boot 학습(수업) '24. 6. 12. ~ 진행중](https://github.com/Koeyh/study-springboot-2024.git)_
+  - _[Spring Boot 개인 프로젝트(게시판 with MyBatis) '24. 6. 11. ~ '24. 6. 17.](https://github.com/Koeyh/practice-SpringBoot.git)_
 <br>
 
 ## 📞 Contact 📞
