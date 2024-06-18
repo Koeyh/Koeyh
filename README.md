@@ -40,7 +40,7 @@
 |:---:|:---:|:---|
 |Python|빅데이터 분석 및 웹 크롤링|Visual Studio Code|
 |Java|Spring Boot를 이용한 웹 개발(JPA)|Visual Studio Code|
-|Java|Spring Boot를 이용한 웹 개발(MyBatis)|IntelliJ IDEA, Visual Studio Code|
+|Java|Spring Boot를 이용한 웹 개발(MyBatis)|IntelliJ IDEA, Visual Studio Code, Eclipse|
 <br>
 
 ## Portfolio
