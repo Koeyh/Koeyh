@@ -6,7 +6,7 @@
   
 - 📌 연 락 처 : 페이지 하단 📞Contact📞 의 카카오 오픈 챗, Gmail 링크를 이용 해 주세요 !
  
-- 💻 [Portfolio](#koeyhs-developer-portfolio)
+- 💻 ***[Koeyh's Portfolio](#koeyhs-developer-portfolio)***
 <br>
 
 ## 🛠 Language & Tools 🛠
