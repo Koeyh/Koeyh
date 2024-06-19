@@ -37,17 +37,17 @@
 ## Tehnique Table
 | 기술분류 | 보유기술 |사용 도구|
 |:---:|:---:|:---|
-|Python|빅데이터 분석 및 웹 크롤링|Visual Studio Code|
 |Java|Spring Boot를 이용한 웹 개발(JPA)|Visual Studio Code|
 |Java|Spring Boot를 이용한 웹 개발(MyBatis)|IntelliJ IDEA, Visual Studio Code, Eclipse|
+|Python|빅데이터 분석 및 웹 크롤링|Visual Studio Code|
 <br>
 
 # ***Koeyh's Developer Portfolio***
-- Java
+- ***Java***
   - _[팀프로젝트_크라우드 펀딩 사이트(Spring Boot with JPA) '24. 5. 27. ~ '24. 6. 7.](https://github.com/PUK-Java/PUK-Groupware.git)_
   - _[Spring Boot 개인 프로젝트(게시판 with MyBatis) '24. 6. 11. ~ '24. 6. 17.](https://github.com/Koeyh/practice-SpringBoot.git)_
   - _[Spring Boot 학습(수업) '24. 6. 12. ~ 진행중](https://github.com/Koeyh/study-springboot-2024.git)_
-- Python
+- ***Python***
   - [빅데이터 분석 학습](https://github.com/Koeyh/bigdata-analysis-2024.git)
 
 <br>
