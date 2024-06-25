@@ -42,7 +42,7 @@
 |Python|빅데이터 분석 및 웹 크롤링|Visual Studio Code|
 <br>
 
-# *** Koeyh's Developer Portfolio ***
+# ***Koeyh's Developer Portfolio***
 - ***Java***
 
   - _[팀프로젝트_크라우드 펀딩 사이트(Spring Boot with JPA) '24. 5. 27. ~ '24. 6. 7.](https://github.com/PUK-Java/PUK-Groupware.git)_
