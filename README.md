@@ -42,14 +42,20 @@
 |Python|빅데이터 분석 및 웹 크롤링|Visual Studio Code|
 <br>
 
-# ***Koeyh's Developer Portfolio***
+# *** Koeyh's Developer Portfolio ***
 - ***Java***
-  - _[팀프로젝트_크라우드 펀딩 사이트(Spring Boot with JPA) '24. 5. 27. ~ '24. 6. 7.](https://github.com/PUK-Java/PUK-Groupware.git)_
-  - _[개인 프로젝트(게시판 SpringBoot with MyBatis) '24. 6. 11. ~ '24. 6. 17.](https://github.com/Koeyh/practice-SpringBoot.git)_
-  - _[Spring Boot 학습(수업) '24. 6. 12. ~ 진행중](https://github.com/Koeyh/study-springboot-2024.git)_
-  - _[개인 프로젝트 쇼핑몰 관리 프로그램 Java JDBC & Oracle (CUI)](https://github.com/Koeyh/Shop-Management.git)_
+
+  - 1️⃣_[팀프로젝트_크라우드 펀딩 사이트(Spring Boot with JPA) '24. 5. 27. ~ '24. 6. 7.](https://github.com/PUK-Java/PUK-Groupware.git)_
+    
+  - 2️⃣_[개인 프로젝트(게시판 SpringBoot with MyBatis) '24. 6. 11. ~ '24. 6. 17.](https://github.com/Koeyh/practice-SpringBoot.git)_
+    
+  - 3️⃣_[Spring Boot 학습(수업) '24. 6. 12. ~ 진행중](https://github.com/Koeyh/study-springboot-2024.git)_
+
+  - 4️⃣_[개인 프로젝트 쇼핑몰 관리 프로그램 Java JDBC & Oracle (CUI)](https://github.com/Koeyh/Shop-Management.git)_
+
 - ***Python***
-  - [빅데이터 분석 학습](https://github.com/Koeyh/bigdata-analysis-2024.git)
+
+   - [빅데이터 분석 학습](https://github.com/Koeyh/bigdata-analysis-2024.git)
 
 <br>
 
